@@ -10,7 +10,6 @@ function kilometerToMeter(kilometer) {
 var result = kilometerToMeter(15.5);
 console.log(result);
 
-
 // Budget Calculator (Problem-2)
     // per clock = 50tk
     // per phone = 100tk
@@ -27,7 +26,6 @@ function budgetCalculator(clock, phone, laptop) {
 }
 var result2 = budgetCalculator(5, 2, 3);
 console.log(result2);
-
 
 // Hotel Cost (Problem-3)
     // 100tk/day for 1-10days
@@ -58,7 +56,6 @@ function hotelCost(days) {
 }
 var result3 = hotelCost(25);
 console.log(result3);
-
 
 // Find Mega Friend (Problem-4)
 function megaFriend(friends) {
